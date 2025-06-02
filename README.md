@@ -2,9 +2,20 @@
 
 Welcome 👋 — this short, time-boxed exercise is designed to showcase your React Native skills **live** during a 2-hour screen-share session and leave a commit trail we can review afterward.
 
-> **Goal:** Build a tiny e-commerce demo that lists products from [here](https://api.escuelajs.co/api/v1/products), lets the user “favorite” items, and keeps those favorites available offline. Focus on scroll performance, a touch of animation polish, and a clean TypeScript codebase.
+> **Goal:** Build a tiny e-commerce demo that lists products from the provided public APIs, lets the user “favorite” items, and keeps those favorites available offline. Focus on scroll performance, a touch of animation polish, and a clean TypeScript codebase.
 
 ---
+
+🔗 Public API
+We’ll use these apis.
+| Endpoint                                                | Purpose                |
+| ------------------------------------------------------- | ---------------------- |
+| `https://api.escuelajs.co/api/v1/categories`            | Category list |
+| `https://api.escuelajs.co/api/v1/categories/{id}/products?offset=0&limit=10`                   | Paginated products by category |
+| `https://api.escuelajs.co/api/v1/products?offset=0&limit=10` | Paginated product list |
+| `https://api.escuelajs.co/api/v1/products/{id}`                   | Single-product details |
+
+<br />
 
 ## 📅 Session Logistics
 
