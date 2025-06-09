@@ -1,6 +1,12 @@
-# React Native Mini-Marketplace Challenge
+# Evaluation
 
-Welcome 👋 — this short, time-boxed exercise is designed to showcase your React Native skills **live** during a 2-hour screen-share session and leave a commit trail we can review afterward.
+Welcome 👋 — this short, time-boxed exercise is designed to showcase your problem-solving and React Native skills **live** during a 2-hour screen-share session and leave a commit trail we can review afterward.
+
+## Warm-up question
+
+https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=oizxjoit
+
+## React Native Mini-Marketplace Challenge
 
 > **Goal:** Build a tiny e-commerce demo that lists products from the provided public APIs, lets the user “favorite” items, and keeps those favorites available offline. Focus on scroll performance, a touch of animation polish, and a clean TypeScript codebase.
 
